@@ -16,33 +16,40 @@ h4 {
 
 #education{
     display: inline;
+    text-align: center;
 }
 
 #projects {
     display: inline;
+    text-align: center;
 }
 
 #experience {
     display: inline;
+    text-align: center;
 }
 
 
 #Social_Media {
     display: inline-block;
     margin-right: 150px;
+    text-align: center;
 }
 
 #Contact {
     display: inline-block;
     margin-right: 150px;
+    text-align: center;
 }
 
 #Linktree {
     display: inline-block;
     margin-right: 150px;
+    text-align: center;
 }
 
 #email {
     display: inline-block;
     margin-right: 150px;
+    text-align: center;
 }
