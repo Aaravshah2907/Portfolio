@@ -9,4 +9,40 @@ h4 {
 
 #Heading {
     text-align: center;
+    font-weight: bolder;
+    font-size: 35px;
+}
+
+
+#education{
+    display: inline;
+}
+
+#projects {
+    display: inline;
+}
+
+#experience {
+    display: inline;
+}
+
+
+#Social_Media {
+    display: inline-block;
+    margin-right: 150px;
+}
+
+#Contact {
+    display: inline-block;
+    margin-right: 150px;
+}
+
+#Linktree {
+    display: inline-block;
+    margin-right: 150px;
+}
+
+#email {
+    display: inline-block;
+    margin-right: 150px;
 }
