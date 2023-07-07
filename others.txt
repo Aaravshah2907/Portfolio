@@ -1,0 +1,141 @@
+<section class="h-c-footer__upper">
+  <section class="h-c-social">
+    <div class="h-c-social__group">
+      <p class="h-c-social__title h-c-social__title--inline">Follow Us</p>
+      <ul class="h-c-social__list h-no-bullet">
+        <li class="h-c-social__item">
+          <a
+            class="h-c-social__link uni-click-tracker"
+            data-analytics='{
+              "category": "social",
+              "action": "follow - footer",
+              "label": "Instagram",
+              "pagePath": "https://www.instagram.com/google/"
+            }'
+            aria-label="Instagram"
+            href="https://www.instagram.com/google/"
+            target="_blank"
+          >
+            <svg
+              aria-hidden="true"
+              class="h-c-icon h-c-icon--24px h-c-icon--social"
+              viewBox="0 0 18 18"
+            >
+              <use
+                xmlns:xlink="http://www.w3.org/1999/xlink"
+                xlink:href="/static/blogv2/images/icons.svg#social-instagram"
+              ></use>
+            </svg>
+          </a>
+        </li>
+
+        <li class="h-c-social__item">
+          <a
+            class="h-c-social__link uni-click-tracker"
+            data-analytics='{
+              "category": "social",
+              "action": "follow - footer",
+              "label": "Twitter",
+              "pagePath": "https://twitter.com/google"
+            }'
+            aria-label="Twitter"
+            href="https://twitter.com/google"
+            target="_blank"
+          >
+            <svg
+              aria-hidden="true"
+              class="h-c-icon h-c-icon--24px h-c-icon--social"
+              viewBox="0 0 18 18"
+            >
+              <use
+                xmlns:xlink="http://www.w3.org/1999/xlink"
+                xlink:href="/static/blogv2/images/icons.svg#social-twitter"
+              ></use>
+            </svg>
+          </a>
+        </li>
+
+        <li class="h-c-social__item">
+          <a
+            class="h-c-social__link uni-click-tracker"
+            data-analytics='{
+              "category": "social",
+              "action": "follow - footer",
+              "label": "Youtube",
+              "pagePath": "https://www.youtube.com/google"
+            }'
+            aria-label="YouTube"
+            href="https://www.youtube.com/google"
+            target="_blank"
+          >
+            <svg
+              aria-hidden="true"
+              class="h-c-icon h-c-icon--24px h-c-icon--social"
+              viewBox="0 0 18 18"
+            >
+              <use
+                xmlns:xlink="http://www.w3.org/1999/xlink"
+                xlink:href="/static/blogv2/images/icons.svg#social-youtube"
+              ></use>
+            </svg>
+          </a>
+        </li>
+
+        <li class="h-c-social__item">
+          <a
+            class="h-c-social__link uni-click-tracker"
+            data-analytics='{
+              "category": "social",
+              "action": "follow - footer",
+              "label": "Facebook",
+              "pagePath": "https://www.facebook.com/Google"
+            }'
+            aria-label="Facebook"
+            href="https://www.facebook.com/Google"
+            target="_blank"
+          >
+            <svg
+              aria-hidden="true"
+              class="h-c-icon h-c-icon--24px h-c-icon--social"
+              viewBox="0 0 18 18"
+            >
+              <use
+                xmlns:xlink="http://www.w3.org/1999/xlink"
+                xlink:href="/static/blogv2/images/icons.svg#social-facebook"
+              ></use>
+            </svg>
+          </a>
+        </li>
+
+        <li class="h-c-social__item">
+          <a
+            class="h-c-social__link uni-click-tracker"
+            data-analytics='{
+              "category": "social",
+              "action": "follow - footer",
+              "label": "Linkedin",
+              "pagePath": "https://www.linkedin.com/company/google"
+            }'
+            aria-label="LinkedIn"
+            href="https://www.linkedin.com/company/google"
+            target="_blank"
+          >
+            <svg
+              aria-hidden="true"
+              class="h-c-icon h-c-icon--24px h-c-icon--social"
+              viewBox="0 0 18 18"
+            >
+              <use
+                xmlns:xlink="http://www.w3.org/1999/xlink"
+                xlink:href="/static/blogv2/images/icons.svg#social-linkedin"
+              ></use>
+            </svg>
+          </a>
+        </li>
+      </ul>
+    </div>
+  </section>
+</section>
+
+
+
