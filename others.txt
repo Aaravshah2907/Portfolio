@@ -1,141 +1,24 @@
-<section class="h-c-footer__upper">
-  <section class="h-c-social">
-    <div class="h-c-social__group">
-      <p class="h-c-social__title h-c-social__title--inline">Follow Us</p>
-      <ul class="h-c-social__list h-no-bullet">
-        <li class="h-c-social__item">
-          <a
-            class="h-c-social__link uni-click-tracker"
-            data-analytics='{
-              "category": "social",
-              "action": "follow - footer",
-              "label": "Instagram",
-              "pagePath": "https://www.instagram.com/google/"
-            }'
-            aria-label="Instagram"
-            href="https://www.instagram.com/google/"
-            target="_blank"
-          >
-            <svg
-              aria-hidden="true"
-              class="h-c-icon h-c-icon--24px h-c-icon--social"
-              viewBox="0 0 18 18"
-            >
-              <use
-                xmlns:xlink="http://www.w3.org/1999/xlink"
-                xlink:href="/static/blogv2/images/icons.svg#social-instagram"
-              ></use>
-            </svg>
-          </a>
-        </li>
+EXPERIENCE
+Company, Location — Job Title
+MONTH 20XX - MONTH 20XX
+Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh.
 
-        <li class="h-c-social__item">
-          <a
-            class="h-c-social__link uni-click-tracker"
-            data-analytics='{
-              "category": "social",
-              "action": "follow - footer",
-              "label": "Twitter",
-              "pagePath": "https://twitter.com/google"
-            }'
-            aria-label="Twitter"
-            href="https://twitter.com/google"
-            target="_blank"
-          >
-            <svg
-              aria-hidden="true"
-              class="h-c-icon h-c-icon--24px h-c-icon--social"
-              viewBox="0 0 18 18"
-            >
-              <use
-                xmlns:xlink="http://www.w3.org/1999/xlink"
-                xlink:href="/static/blogv2/images/icons.svg#social-twitter"
-              ></use>
-            </svg>
-          </a>
-        </li>
+EDUCATION
+School Name, Location — Degree
+MONTH 20XX - MONTH 20XX
+Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam.
 
-        <li class="h-c-social__item">
-          <a
-            class="h-c-social__link uni-click-tracker"
-            data-analytics='{
-              "category": "social",
-              "action": "follow - footer",
-              "label": "Youtube",
-              "pagePath": "https://www.youtube.com/google"
-            }'
-            aria-label="YouTube"
-            href="https://www.youtube.com/google"
-            target="_blank"
-          >
-            <svg
-              aria-hidden="true"
-              class="h-c-icon h-c-icon--24px h-c-icon--social"
-              viewBox="0 0 18 18"
-            >
-              <use
-                xmlns:xlink="http://www.w3.org/1999/xlink"
-                xlink:href="/static/blogv2/images/icons.svg#social-youtube"
-              ></use>
-            </svg>
-          </a>
-        </li>
+SKILLS
+Lorem ipsum dolor sit amet.
+Consectetuer adipiscing elit.
+Sed diam nonummy nibh euismod tincidunt.
+L​​​‌​aoreet dolore magna aliquam erat volutpat.
 
-        <li class="h-c-social__item">
-          <a
-            class="h-c-social__link uni-click-tracker"
-            data-analytics='{
-              "category": "social",
-              "action": "follow - footer",
-              "label": "Facebook",
-              "pagePath": "https://www.facebook.com/Google"
-            }'
-            aria-label="Facebook"
-            href="https://www.facebook.com/Google"
-            target="_blank"
-          >
-            <svg
-              aria-hidden="true"
-              class="h-c-icon h-c-icon--24px h-c-icon--social"
-              viewBox="0 0 18 18"
-            >
-              <use
-                xmlns:xlink="http://www.w3.org/1999/xlink"
-                xlink:href="/static/blogv2/images/icons.svg#social-facebook"
-              ></use>
-            </svg>
-          </a>
-        </li>
+AWARDS
+Lorem ipsum dolor sit amet Consectetuer adipiscing elit, Sed diam nonummy
+Nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.
+Lorem ipsum dolor sit amet Consectetuer adipiscing elit, Sed diam nonummy
+Nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.
 
-        <li class="h-c-social__item">
-          <a
-            class="h-c-social__link uni-click-tracker"
-            data-analytics='{
-              "category": "social",
-              "action": "follow - footer",
-              "label": "Linkedin",
-              "pagePath": "https://www.linkedin.com/company/google"
-            }'
-            aria-label="LinkedIn"
-            href="https://www.linkedin.com/company/google"
-            target="_blank"
-          >
-            <svg
-              aria-hidden="true"
-              class="h-c-icon h-c-icon--24px h-c-icon--social"
-              viewBox="0 0 18 18"
-            >
-              <use
-                xmlns:xlink="http://www.w3.org/1999/xlink"
-                xlink:href="/static/blogv2/images/icons.svg#social-linkedin"
-              ></use>
-            </svg>
-          </a>
-        </li>
-      </ul>
-    </div>
-  </section>
-</section>
-
-
-
+LANGUAGES
+Lorem ipsum, Dolor sit amet, Consectetuer
