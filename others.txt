@@ -22,3 +22,6 @@ Nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.
 
 LANGUAGES
 Lorem ipsum, Dolor sit amet, Consectetuer
+
+Certificates:
+Google's coursera's Crash Course in Python: https://www.coursera.org/account/accomplishments/certificate/XRBSSLTLNME7
